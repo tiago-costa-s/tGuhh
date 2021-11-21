@@ -1,4 +1,4 @@
-### Olá, meu nome é Tiago Costa 👋
+### Olá, meu nome é Tiago Costa, sou estudante da area de tecnologia e programação! 👋
 
 
 - 🔭 Trabalhando como Suporte ...
