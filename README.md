@@ -1,9 +1,5 @@
-### Hi there 👋
+### Olá, 👋
 
-<!--
-**tGUhh/tGuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Trabalhando como Suporte ...
 - 🌱 Estudando JAVA ...
