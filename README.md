@@ -25,7 +25,7 @@
 </div>
   
 ##
-###Studying  
+### Studying  
   <a></a>
   
 ##
